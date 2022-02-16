@@ -1,0 +1,8 @@
+a=int(input(""))
+for i in range(a):
+    print(i*i)
+output:
+5
+0
+1
+4
